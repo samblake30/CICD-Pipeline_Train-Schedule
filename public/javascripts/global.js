@@ -1,4 +1,4 @@
-var userListData = [];
+new var userListData = [];
 
 $(document).ready(function() {
 
