@@ -1,2 +1,3 @@
-/data/*  @samblake30 
-         CODEOWNERS
+/data/*  @samblake30
+# /*/data/testing/CODEOWNERS
+* @Vaibhavipaw
